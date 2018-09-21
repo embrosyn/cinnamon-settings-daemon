@@ -119,6 +119,12 @@ cinnamon-settings-daemon (4.0.0) tessa; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Oct 2018 14:51:25 +0000
 
+cinnamon-settings-daemon (3.8.6-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 21:20:37 +0200
+
 cinnamon-settings-daemon (3.8.4) tara; urgency=medium
 
   * Power: Reconfigure idle timers when upower state changes
